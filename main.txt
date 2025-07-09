@@ -2,3 +2,4 @@ goofy content
 above isn't feature content, I am feature content!
 whats the difference between main and origin/main??
 i'll find this out later - july 9th, 2:04 PM
+dude when i switched to "feature" it didn't sync with main when i did "git pull --rebase"?? - 2:07 PM
