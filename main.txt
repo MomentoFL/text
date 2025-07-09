@@ -23,4 +23,4 @@ i'm in feature, the "git pull --rebase <branch_name> works as intended for smoot
     --look in VS code how the pull from main has pulled in a linear motion instead of a merge--
     -- this can work the other way too, such as being in <branch_name> and then going into MAIN to pull
     from <branch_name> - 2:24 PM
-
+due to some info given from Latori, let's try merging instead. - 2:39 PM
